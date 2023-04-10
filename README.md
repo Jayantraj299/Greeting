@@ -5,7 +5,4 @@ like : Say Good-morning in morning.
        Say Good-night in night
        and Say Go to sllp if it's past 12:00 am
 it uses time module to do all these tasks.
-it works on a 24.hr clock format.
-
-
-                         ----Thanks for reading
+it works on a 24.hr clock format
